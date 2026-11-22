@@ -7,9 +7,9 @@ FixMate connects customers with verified technicians for repairs such as smartph
 
 ## Live URL
 - **Live site:** https://fixmate-wheat-mu.vercel.app
-- **Server API:** https://fixmate-server-dusky.vercel.app
-- **Server repo:** https://github.com/MdSagarAhammed/Fixmate_server.git
-- **Client repo:** https://github.com/MdSagarAhammed/fixmate.git
+- **Server API:** https://fixmate-server-sczi.onrender.com
+- **Server repo:** https://github.com/MdSagarAhammed/Fixmate_server
+- **Client repo:** https://github.com/MdSagarAhammed/fixmate
 
 ## Purpose (Client Side)
 The client is the user-facing part of FixMate. It:
